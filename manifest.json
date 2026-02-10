@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Internship Scam Checker",
+  "version": "1.0",
+  "description": "A Chrome extension that analyzes internship and job links to identify potential scam risks.",
+  "permissions": ["tabs", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
