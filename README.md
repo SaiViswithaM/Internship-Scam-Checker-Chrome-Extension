@@ -34,5 +34,5 @@ This tool provides basic risk indication and should be used as a precautionary a
 
 ---
 
-Made with ❤️ by **M. Saiviswitha**
+Made with by **M. Saiviswitha**
 
